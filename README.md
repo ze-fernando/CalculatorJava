@@ -2,6 +2,8 @@
 
 ### Welcome to the Calculator with java
 
-### Here you can solve complex mathematical operations with a simple key
+### Requirements
+🔹Jdk-17
+🔹Git
 
-feel free to download and test yourself.
+You need to clone the project with git and run ".class" file, then insert your maematic operation and be happy!!
