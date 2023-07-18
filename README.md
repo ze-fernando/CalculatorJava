@@ -22,7 +22,7 @@ You need to clone the project with git and run ".class" file, then insert your m
 
 # Começando
 
-## Bem vindo ao Calculator com java
+### Bem vindo ao Calculator com java
 
 ## Requisitos
 🔹Jdk-17<br>
