@@ -11,7 +11,7 @@ You need to clone the project with git and run ".class" file, then insert your m
 
 ## Available operations
 
-◽ Square root
+◽ Square root <br>
 ◽ Root cubic
 ◽ Baskara form
 ◽ Percent
