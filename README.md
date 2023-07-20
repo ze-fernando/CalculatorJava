@@ -6,7 +6,7 @@
 🔹Jdk-17<br>
 🔹Git<br>
 
-You need to clone the project with `git clone https://github.com/ze-fernando/CalculatorJava/` and run ".class" file, then insert your maematic operation and be happy!!
+You need to clone the project with `git clone https://github.com/ze-fernando/CalculatorJava` and run ".class" file, then insert your maematic operation and be happy!!
 
 
 ## Available operations
@@ -28,7 +28,7 @@ You need to clone the project with `git clone https://github.com/ze-fernando/Cal
 🔹Jdk-17<br>
 🔹Git<br>
 
-Você precisa fazer clone do projeto com `git clone https://github.com/ze-fernando/CalculatorJava/` e executar o arquivo ".class", depois insira sua operação matematica e seja feliz!
+Você precisa fazer clone do projeto com `git clone https://github.com/ze-fernando/CalculatorJava` e executar o arquivo ".class", depois insira sua operação matematica e seja feliz!
 
 ## Operações disponiveis
 
